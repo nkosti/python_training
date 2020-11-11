@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="ipv_cleanup_user" type="Python" />
       <mapping pattern="boolean_operators" type="Python" />
       <mapping pattern="dictdemo" type="Python" />
     </extensionMap>
