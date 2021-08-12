@@ -122,8 +122,8 @@
         <entry key="*.conf">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.github.redfoos.logstash-intellij-plugin" />
-              <option name="myPluginName" value="Logstash Config Files Support" />
+              <option name="myPluginId" value="org.jetbrains.plugins.hocon" />
+              <option name="myPluginName" value="HOCON" />
             </plugin>
           </value>
         </entry>
